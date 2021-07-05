@@ -1,0 +1,42 @@
+
+body{
+    font-family: 'Pacifico', cursive;   
+    background-color: #000207; 
+    color: rgb(16 111 102 / 97%);
+    font-weight: 700;
+    font-size: 20px;
+    
+}
+button{
+    background-image:linear-gradient(rgb(238, 12, 12),coral);
+    height: 50px;
+    width: 100px;
+    border-radius: 35px;
+    text-align: center;
+    font-weight: 900;
+    color: rgb(210, 211, 210);
+}
+#top{
+    text-align: center;
+    font-weight: 900;
+    color: rgb(212 173 173 / 86%);
+}
+.color{
+    color:rgb(177 160 37);
+    font-size: 70px;
+}
+.section-design{
+    display: flex;
+    height: 50%;
+}
+.position{
+    width: 50%;
+    height: 50%;
+    margin: 30px;
+    border-radius: 15px;
+    padding: 60px;
+    text-align: justify;
+}
+#picture-position{
+    padding: 30px;
+}
